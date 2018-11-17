@@ -1,0 +1,10 @@
+#include <iostream>
+
+int main(void){
+
+for (int i = 0; i < 999; i++)
+{
+cout << "Tu mama en tanga" << endl;
+}
+
+}
